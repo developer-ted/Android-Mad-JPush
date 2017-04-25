@@ -1,4 +1,4 @@
-package com.mad.jpush;
+package com.mad.jpushtest;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
