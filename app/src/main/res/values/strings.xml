@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MadJPush</string>
+    <string name="jpush_key_value">"APP_KEY"</string>
 </resources>
